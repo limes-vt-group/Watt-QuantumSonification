@@ -1,10 +1,9 @@
 # Sonification-of-Quantum-Photonic-Circuits
-research repo
 
 ### Setup
-1. Make sure you have initialized a Python virtual environment
+Make sure you have initialized a Python virtual environment
 
-2. Run the following command to install the necessary modules within the venv
+Run the following command to install the necessary modules within the venv
 ```
 python3 -m pip install -r requirements.txt
 ```
